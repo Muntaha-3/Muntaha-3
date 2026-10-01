@@ -1,16 +1,21 @@
-## Hi there 👋
+# Sidratul Muntaha
 
-<!--
-**Muntaha-3/Muntaha-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Yahan 3-5 lines likhein: aap kaun hain, kya parh rahi hain, kya seekhna chahti hain.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category  | Technologies         |
+|-----------|----------------------|
+| Languages | Python, SQL          |
+| Tools     | Git, GitHub, VS Code |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Project 1
+Apne kisi project ka chhota sa description.
+
+## Education
+Degree, University, Year
+
+## Contact
+- Email: sidrawaseer1@gmail.com
+- GitHub: [@Muntaha-3](https://github.com/Muntaha-3)
